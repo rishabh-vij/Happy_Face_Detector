@@ -1,5 +1,6 @@
 # Happy_Face_Detector
 
+**Happy or sad? This model can tell!**
 Given an image of a human face, the model can detect if the person is happy or notg with 96% accuracy.
 
 
